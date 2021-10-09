@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/seyinator/seyinator/blob/main/241492389_927566084462597_1847070814314236025_n.jpg" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Emir!</h1>
 <h3 align="center">Software Engineer | Graphic Designer | Blogger</h3>
 <p align="center">
 <a href="https://www.instagram.com/seyinator/" target="blank"><img align="center" src="https://github.com/seyinator/seyinator/blob/main/instagram%20(1).svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
@@ -50,8 +50,8 @@
   <code><img height="50" src="https://github.com/seyinator/seyinator/blob/main/java.svg"></code><code> 
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/seyinator/seyinator/blob/main/microsoftsqlserver.svg"> </code>
   <code> <img height="50" src="https://github.com/seyinator/seyinator/blob/main/c-sharp-c-icon-456x512-9sej0lrz.png"> </code>
+  <code> <img height="50" src="https://github.com/seyinator/seyinator/blob/main/microsoftsqlserver.svg"> </code>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
