@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/seyinator/seyinator/blob/main/241492389_927566084462597_1847070814314236025_n.jpg" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Emir!</h1>
