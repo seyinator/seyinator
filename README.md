@@ -2,7 +2,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Emir!</h1>
-<h3 align="center">Software Engineer | Graphic Designer | Blogger</h3>
+<h3 align="center">Frontend Developer | Owner of company </h3>
 <p align="center">
 <a href="https://www.instagram.com/seyinator/" target="blank"><img align="center" src="https://github.com/seyinator/seyinator/blob/main/instagram%20(1).svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/seyinator" target="blank"><img align="center" src="https://github.com/seyinator/seyinator/blob/main/twitch.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
