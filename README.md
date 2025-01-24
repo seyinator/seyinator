@@ -4,10 +4,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Emir!</h1>
 <h3 align="center">Frontend Developer | Owner of company </h3>
 <p align="center">
-<a href="https://www.instagram.com/seyinator/" target="blank"><img align="center" src="https://github.com/seyinator/seyinator/blob/main/instagram%20(1).svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/seyinator" target="blank"><img align="center" src="https://github.com/seyinator/seyinator/blob/main/twitch.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10414727/seyinator" target="blank"><img align="center" src="https://github.com/seyinator/seyinator/blob/main/stackoverflow.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-<a href = "mailto: oyung033@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href = "mailto: emir@fastcons.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -15,8 +13,8 @@
 
 <p align="center">
   <em>
-    This is ME, Emir Seyit Ozturk, a <b>high school student</b> in <a href="https://gym1409s-new.mskobr.ru/#/"> <b>Gymnasium 1409</b></a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">,<br>Who is <b>obsessed</b>
+    This is ME, Emir Seyit Ozturk, a <b>Junior Frontend Dev</b> <a href="https://gym1409s-new.mskobr.ru/#/"> <br>
+    A budding <b>Frontend Dev</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">,<br>Who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em> 
@@ -29,17 +27,10 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** 😉 <br>
-✔ Nationality: ***Turkish*** 🇹🇷 <br>
-✔ Lives in: ***Russia || Moscow** 📍 <br>
-✔ Birth Date: ***05.07.2005*** 📅 <br>
-✔ I’m currently Developing **Android Apps** <br>
-✔ I’m currently learning **Java** & **Android App Development**<br>
+✔ I’m currently Developing **User interfaces** <br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Android App Development**<br>
-✔ I sometimes stream on [Twitch](https://www.twitch.tv/seyinator) <br>
-✔ I publish interesting stories and posts on [Instagram](https://www.instagram.com/seyinator/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ I’m looking for help for learning **Frontend Development**<br>
+✔ Ask me about anything, I am happy to help<br>
 ✔ Fun fact : *I can learn anything so fast. I just need source and that's all :)*<br><br><br><br>
  
 
